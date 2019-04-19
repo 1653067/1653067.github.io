@@ -4,13 +4,8 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Mình tên là Trần Trọng Phúc.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Hiện là sinh viên năm 3 tại đại học Khoa Học Tự Nhiên và Fresher tại **Zalo Pay**.
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Rất mong được chia sẻ và học hỏi cùng các bạn
