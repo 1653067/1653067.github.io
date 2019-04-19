@@ -34,7 +34,8 @@ Cho nên, Định lý CAP phân loại các hệ thống thành 2 loại khác n
 * **Weak consistency (Nhất quán yếu)**
 * **Eventual consistency (Nhất quán đến cuối cùng)**
 * **Strong consistency (Nhất quán mạnh)**
-#### Eventual consistency
+
+### 2. Eventual consistency
 Đây là một dạng đặc biệt trong **Weak consistency**. Hệ thống đảm bảo rằng nếu không có thêm cập nhật nào nữa, thì cuối cùng tất cả các truy nhập sẽ trả về giá trị cập nhật cuối cùng. Khi sử dụng nhiều bản sao, có một write request đến một bản sao (insert, update, delete) thì chúng phải làm sao cho các bản sao khác cũng nhận được request tương ứng. Việc đồng bộ giữa các bản sao có thể một ít thời gian, trong thời gian các bản sao động bộ khi có một read request đến thì sẽ nhận được kết quả trả về cũ hơn.
 
 Có thể hiểu như khi bạn đăng một post lên facebook thì bài post sẽ được đăng ngay lập tức. Bạn có thể thấy bài post được đăng. Nhưng người khác có thể mất vài giây để thấy bài đăng của bạn.
